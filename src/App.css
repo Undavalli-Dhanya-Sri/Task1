@@ -1,0 +1,10 @@
+/* src/App.css */
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+section {
+  height: 100vh;
+  padding: 20px;
+}
